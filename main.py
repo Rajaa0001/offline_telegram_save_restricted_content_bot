@@ -8,10 +8,10 @@ from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.errors import FloodWaitError
 
 # ==== CONFIGURATION ====
-api_id = 10039364           # Replace with your own API ID
-api_hash = '63f5e9ca5613f8830cb8c3441ea04c01'    # Replace with your own API hash
-phone_number = '+919327385032'  # Your phone number with country code
-upload_target = 'vipulrestricted'  # Your own channel or chat to upload to
+api_id = 123456           # Replace with your own API ID
+api_hash = '2121545.......'    # Replace with your own API hash
+phone_number = '+910000000000'  # Your phone number with country code
+upload_target = 'yourchannelname'  # Your own channel or chat to upload to
 
 client = TelegramClient("session", api_id, api_hash)
 
