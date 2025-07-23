@@ -5,6 +5,7 @@
    - api_id, api_hash, phone_number with your actual Telegram developer credentials.
 
 2. Run the script:
+win + R type cmd
    python main.py
 
 3. When prompted, enter:
